@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @liangdc
+- 👀 I’m interested in physical
+- 🌱 I’m currently learning logic circuit (digital circuit rookie）
+- 📫 How to reach me ldc532959@sina.com
